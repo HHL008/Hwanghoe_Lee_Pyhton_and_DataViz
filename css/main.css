@@ -1,0 +1,8 @@
+body {
+	font-size: 16px;
+	font-family: 'Arial', 'helvetica', sans-serif;
+}
+
+.hidden { display: none; }
+
+.data-img{ width: 30%; max-width:  100%; }
